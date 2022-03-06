@@ -9,3 +9,12 @@ h1{
 h2{
     color:#FFFFFF
 }
+
+p{
+    color:#FFFFFF
+}
+
+a:link{color:#5555ff}
+a:hover{color:#9999FF}
+a:active{color:#cc55FF}
+a:visited{color:#5555ff}
